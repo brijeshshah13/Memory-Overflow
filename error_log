@@ -1,0 +1,6 @@
+[30-Aug-2017 14:59:41 UTC] PHP Question2Answer MySQL query error 1146: Table 'brijeshj_db.qa_options' doesn't exist - Query: (SELECT 'options' AS selectkey, title, content FROM qa_options) UNION ALL (SELECT 'time', 'db_time', UNIX_TIMESTAMP(NOW()))
+[30-Aug-2017 15:00:23 UTC] PHP Question2Answer MySQL query error 1146: Table 'brijeshj_db.qa_options' doesn't exist - Query: (SELECT 'options' AS selectkey, title, content FROM qa_options) UNION ALL (SELECT 'time', 'db_time', UNIX_TIMESTAMP(NOW()))
+[30-Aug-2017 15:00:35 UTC] PHP Question2Answer MySQL query error 1146: Table 'brijeshj_db.qa_options' doesn't exist - Query: (SELECT 'options' AS selectkey, title, content FROM qa_options) UNION ALL (SELECT 'time', 'db_time', UNIX_TIMESTAMP(NOW()))
+[30-Aug-2017 15:26:19 UTC] PHP Notice:  Undefined index: ranking_tags in /home/brijeshj/public_html/memoryoverflow.in/qa-theme/Donut-theme/qa-donut-layer.php on line 1115
+[30-Aug-2017 15:26:20 UTC] PHP Notice:  Undefined index: ranking_tags in /home/brijeshj/public_html/memoryoverflow.in/qa-theme/Donut-theme/qa-donut-layer.php on line 1115
+[30-Aug-2017 15:30:47 UTC] PHP Notice:  Undefined index: ranking_tags in /home/brijeshj/public_html/memoryoverflow.in/qa-theme/Donut-theme/qa-donut-layer.php on line 1115
