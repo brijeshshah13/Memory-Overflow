@@ -35,9 +35,9 @@
 */
 
 	define('QA_MYSQL_HOSTNAME', 'localhost');
-	define('QA_MYSQL_USERNAME', 'root');
-	define('QA_MYSQL_PASSWORD', '');
-	define('QA_MYSQL_DATABASE', 'memoryoverflow');
+	define('QA_MYSQL_USERNAME', 'your-mysql-username');
+	define('QA_MYSQL_PASSWORD', 'your-mysql-password');
+	define('QA_MYSQL_DATABASE', 'your-mysql-db-name');
 
 /*
 	Ultra-concise installation instructions:
