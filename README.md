@@ -1,4 +1,7 @@
 # Memory-Overflow
+[![Build Status](https://travis-ci.org/brijeshjain13/Memory-Overflow.svg?branch=master)](https://travis-ci.org/brijeshjain13/Memory-Overflow)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/memoryoverflow-in/Lobby)
+
 [Memory Overflow](https://www.memoryoverflow.in/) is the growing community for thriving developers to meet, question, learn and share their experience &amp; knowledge. It a free and open-source **responsive website** designed for great readability with a clean interface powered by [Bootstrap](http://getbootstrap.com/).
 
 ## Features
