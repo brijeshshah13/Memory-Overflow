@@ -1336,11 +1336,11 @@
          */
         private function donut_attribution()
         {
-            $this->output(
+            /*$this->output(
                     '<div class="qa-attribution">',
                     '<a href="https://github.com/amiyasahu/Donut">Donut Theme</a> <span class="fa fa-code"></span> with <span class="fa fa-heart"></span> by <a href="http://amiyasahu.com">Amiya Sahu</a>',
                     '</div>'
-            );
+            );*/
         }
 
         private function donut_copyright()
